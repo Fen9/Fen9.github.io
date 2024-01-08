@@ -9,7 +9,7 @@ profile:
   image: feng_202401.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: fenggo[AT]amazon.com</p>
+    <p>Email: fenggo[AT]amazon[dot]com</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Feng Gao is currently an applied scientist at <a href='https://www.amazon.science/'>Amazon</a>. He received his Ph.D. from UCLA in 2022 co-adviosed <a href='https://www.stat.ucla.edu/~ywu/'>Ying Nian Wu</a> and <a href='https://handcock.github.io/'>Mark S. Handcock</a>. From 2017 to 2021, he was under the supervision of <a href='https://www.stat.ucla.edu/~sczhu/'>Song-Chun Zhu</a>.
+Feng Gao is currently an applied scientist at <a href='https://www.amazon.science/'>Amazon</a>. He received his Ph.D. from UCLA in 2022 co-advised by <a href='https://www.stat.ucla.edu/~ywu/'>Ying Nian Wu</a> and <a href='https://handcock.github.io/'>Mark S. Handcock</a>. From 2017 to 2021, he was under the supervision of <a href='https://www.stat.ucla.edu/~sczhu/'>Song-Chun Zhu</a>.
 
 Feng Gao's research [<a href='https://scholar.google.com/citations?user=amaLnocAAAAJ&hl=en'>Google Scholar</a>] interests focus on computer vision, artificial intelligence and robotics. Targeting AGI for robotics, in particularly, he is actively working on 
 
