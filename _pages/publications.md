@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Please find the full list of my publication here. The following list is arranged in reverse chronological order.
+description: Please find the full list of my publications here. The following list is arranged in reverse chronological order.
 nav: true
 nav_order: 2
 ---

@@ -19,14 +19,14 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Master in Computer Science
+    - title: M.S. in Computer Science
       institution: University of Southern California
       year: 2017
       # description:
       #   - Description 1.
       #   - Description 2.
-    - title: Bachelor in Software Engineering
-      institution: University of Electronic Science and Technology of China
+    - title: B.Eng. in Software Engineering
+      institution: Univ. of Electronic Science and Technology of China
       year: 2015
 
 - title: Experience
