@@ -50,6 +50,33 @@
       description:
         - Worked in <br><a href='https://vcla.stat.ucla.edu/'>Center for Vision, Cognition, Learning and Autonomy</a>.
 
+- title: Academic Service
+  type: time_table
+  contents:
+    - year: 2019 - 2024
+      items: 
+        - CVPR reviewer
+    - year: 2020 - 2023
+      items: 
+        - NeurIPS reviewer
+    - year: 2021
+      items: 
+        - NeurIPS dataset track reviewer
+    - year: 2022
+      items: 
+        - ICLR reviewer
+    - year: 2020 - 2021
+      items: 
+        - AAAI reviewer
+    - year: 2020
+      items: 
+        - ECCV reviewer
+    - year: 2019
+      items: 
+        - ICCV reviewer
+    - year: 2018
+      items: 
+        - ICRA reviewer
 
 - title: Honors and Awards
   type: time_table
