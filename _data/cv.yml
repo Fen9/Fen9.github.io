@@ -36,8 +36,8 @@
       institution: Amazon, Palo Alto/Sunnyvale, CA
       year: 2022 - now
       description:
-        - Worked on multi-modal LLMs training.
-        - Worked on text-to-image generation (both diffusion and transformer-based methods).
+        - Core member of Rufus-MM. Full stack M-LLM including pre-training, IFT, alignment and evaluation.
+        - Embodied AI and text to image generation (prior to Rufus in Alexa).
     - title: Teaching Assistant/Associate
       institution: University of California, Los Angeles, CA
       year: 2020 - 2022
