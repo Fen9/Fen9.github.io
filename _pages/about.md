@@ -35,4 +35,4 @@ He is currenty an Applied Scientist in `Amazon` and affliated to store foundatio
   - <a href=''>Reasoning</a> 
   - <a href=''>Embodied AI</a>
 
-Feel free to contact me: ***fenggo [at] amazon [dot] com***.
+Feel free to contact me: ***fenggao [dot] pub [at] gmail [dot] com***.
