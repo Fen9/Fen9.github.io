@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Scientist, <a href='https://www.amazon.science/'>Amazon</a>. Ph.D. from <a href='https://www.ucla.edu'>UCLA</a>.
+subtitle: Research Scientist, <a href='https://www.bytedance.com/en/'>ByteDance</a>. Ph.D. from <a href='https://www.ucla.edu'>UCLA</a>.
 
 profile:
   align: right
@@ -26,13 +26,18 @@ latest_posts:
 
 Feng Gao received his Ph.D. from UCLA in 2022 co-advised by <a href='http://www.stat.ucla.edu/~ywu/'>`Ying Nian Wu`</a> and <a href='https://handcock.github.io/'>`Mark Handcock`</a>. From 2017 to 2021, he was advised by <a href='http://www.stat.ucla.edu/~sczhu/'>`Song-Chun Zhu`</a>.
 
-He is currenty an Applied Scientist in `Amazon` and affliated to store foundation AI (SFAI). Specifically, he 
-- 🐶 Build `Rufus` [<a href='https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus'>News1</a>], [<a href='https://www.amazon.science/blog/the-technology-behind-amazons-genai-powered-shopping-assistant-rufus'>News2</a>], Amazon's LLM-powered Shopping Assistant.
-- 🚀 Launch multimodal Rufus (`Rufus-MM`).
-  - <a href=''>Full-stack M-LLM</a> development: data, pre-training, post-training, evaluation. 
+He is currenty a Research Scientist at `ByteDance`. Specifically, he is
+- Working on `Multimodal Foundation Models`
 - 🔬 Actively research on 
   - <a href=''>Multimodal Understanding & Generation</a>
   - <a href=''>Reasoning</a> 
   - <a href=''>Embodied AI</a>
+
+At ByteDance, he works on LLM post-training, building `Multimodal LLM agent`.
+
+Before that, he was a researcher at `Amazon`, and he
+- 🐶 Built `Rufus` [<a href='https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus'>News1</a>], [<a href='https://www.amazon.science/blog/the-technology-behind-amazons-genai-powered-shopping-assistant-rufus'>News2</a>], Amazon's LLM-powered Shopping Assistant.
+- 🚀 Launch multimodal Rufus (`Rufus-MM`).
+  - <a href=''>Full-stack M-LLM</a> development: data, pre-training, post-training, evaluation. 
 
 Feel free to contact me: ***fenggao [dot] pub [at] gmail [dot] com***.
