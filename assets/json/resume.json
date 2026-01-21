@@ -26,10 +26,20 @@
       "location": "USA",
       "position": "Applied Scientist",
       "startDate": "2022-07-18",
-      "endDate": "present",
+      "endDate": "2025-11-17",
       "highlights": ["Build Rufus (Amazon's LLM-powered shopping assistant).", 
                      "Launched multimodal-Rufus (Rufus-MM) for image/video understanding experience.",
                      "Rufus-MM full-stack development, training 7B-100B+ M-LLMs."
+      ]
+    },
+    {
+      "name": "ByteDance",
+      "location": "USA",
+      "position": "Research Scientist",
+      "startDate": "2025-11-17",
+      "endDate": "present",
+      "highlights": ["Building ViDI a foundation multimodal LLM for video understanding and editing.", 
+                     "Building multimodal LLM agents"
       ]
     }
   ],

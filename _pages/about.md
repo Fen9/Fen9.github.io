@@ -33,7 +33,7 @@ He is currenty a Research Scientist at `ByteDance`. Specifically, he is
   - <a href=''>Reasoning</a> 
   - <a href=''>Embodied AI</a>
 
-At ByteDance, he works on LLM post-training, building `Multimodal LLM agent`.
+At ByteDance, he works on LLM post-training, building `Multimodal LLM agents`.
 
 Before that, he was a researcher at `Amazon`, and he
 - 🐶 Built `Rufus` [<a href='https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus'>News1</a>], [<a href='https://www.amazon.science/blog/the-technology-behind-amazons-genai-powered-shopping-assistant-rufus'>News2</a>], Amazon's LLM-powered Shopping Assistant.
